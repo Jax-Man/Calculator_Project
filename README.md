@@ -1,6 +1,6 @@
 # Calculator_project
 ***
-## You should be able to play around with it [here]('url')
+## You should be able to play around with it [here]('https://jax-man.github.io/Calculator_Project/')
 
 ### this project was done in part for [freeCodeCamp](https://freeCodecamp.org)
 ***
